@@ -152,7 +152,7 @@ int main() {
 	printf("even numbers = %d\n", chet());
 	printf("sum = %d\n", sum());
 
-
+	printf("test git text");
 
 	return 0;
 }
